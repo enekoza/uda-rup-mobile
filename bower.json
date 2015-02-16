@@ -23,7 +23,8 @@
     }
   ],
   "main": [
-    "dist/rup.js"
+    "dist/rup.js",
+    "css/rup.css"
   ],
   "ignore": [
     "docs",
