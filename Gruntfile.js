@@ -19,7 +19,6 @@ module.exports = function(grunt) {
             main:{ 
                 files:[
                     {expand: true, src: 'rup/**/*.js', dest: 'dist/tmp/js/', flatten: true}
-                    
                 ]
             }
         },
