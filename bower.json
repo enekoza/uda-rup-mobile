@@ -1,16 +1,37 @@
 {
   "name": "uda-rup",
+  "description": "AngularStrap - AngularJS directives for Bootstrap",
   "version": "0.1.0",
-  "description": "Uda",
-  "license": "MIT",
+  "keywords": [
+    "angular",
+    "uda",
+    "rup"
+  ],
+  "homepage": "http://mgcrea.github.io/angular-strap",
+  "bugs": "https://github.com/mgcrea/angular-strap/issues",
+  "author": {
+    "name": "EJIE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enekoza/uda-rup.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/mgcrea/angular-strap/blob/master/LICENSE.md"
+    }
+  ],
+  "main": [
+    "dist/rup.js"
+  ],
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "app/components",
+    "docs",
     "test",
-    "tests"
+    "CONTRIBUTING.md"
   ],
   "dependencies": {
+  },
+  "devDependencies": {
   }
 }
